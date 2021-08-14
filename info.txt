@@ -1,0 +1,9 @@
+TITLE=Título do Recibo
+PAID_TO=Nome da recebedor
+BILL_TO=Nome do Pagador
+SERVICE_DESC=aos serviços prestados como nome do serviço prestado
+VALUE_PAID=1o0,00 (Cem Reais)
+VALUE_ADDS=10,00 (Dez Reais)
+ADDS_DESC=custos de transporte
+CITY=Sua cidade
+LOCALE=pt_BR
