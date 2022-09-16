@@ -38,7 +38,7 @@ func loadInvoiceFile(path string) invoice.Invoice {
 	currInv := invoice.Invoice{
 		TextTitle:   propsMap["TITLE"],
 		PaidTo:      propsMap["PAID_TO"],
-		BillTo:      propsMap["BILL_TO"],
+		BillTo:      propsMap["BILL_FROM"],
 		ServiceDesc: propsMap["SERVICE_DESC"],
 		ValuePaid:   propsMap["VALUE_PAID"],
 		ValueAdds:   propsMap["VALUE_ADDS"],
